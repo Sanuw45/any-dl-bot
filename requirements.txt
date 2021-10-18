@@ -10,3 +10,4 @@ Pillow
 hachoir
 numpy
 beautifulsoup4
+PyDrive
