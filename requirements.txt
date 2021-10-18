@@ -2,7 +2,7 @@ aiohttp
 requests
 youtube-dl
 git+git://github.com/google/chatbase-python.git
-https://github.com/CW4RR10R/archives/blob/master/pyrogram-asyncio.zip
+https://github.com/CW4RR10R/archives/blob/master/pyrogram-asyncio.zip?raw=true
 Pillow
 hachoir
 numpy
